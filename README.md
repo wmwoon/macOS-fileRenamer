@@ -1,4 +1,5 @@
 **Update 9 Feb 2025:**
+
 Improvements in This Version
 	1.	Uses Finder’s Creation Date Directly
 	•	Instead of mdls, the script now gets the creation date using tell application "Finder" to get creation date of aFile.
@@ -8,7 +9,8 @@ Improvements in This Version
 	3.	Maintains Four-Digit Counter (0001, 0002, etc.)
 	•	Ensures filenames are sorted correctly.
 
-**Description**
+**Description:**
+
 A little tool used to help rename files based on the creation date, and rename files to custom names while preserving file extensions.
 Example Output:
 
